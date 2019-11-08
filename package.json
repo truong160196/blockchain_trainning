@@ -1,0 +1,36 @@
+{
+  "name": "blockchain-trainning",
+  "version": "1.0.0",
+  "description": "Blockchain Tranning base Ethereum network",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && sexit 1"
+  },
+  "author": "truong160196@gmail.com",
+  "keywords": [
+    "blockchain",
+    "tranning",
+    "vietnam"
+  ],
+  "license": "MIT",
+  "homepage": "http://laptrinhblockchain.net",
+  "devDependencies": {
+    "bootstrap": "4.1.3",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "lite-server": "^2.3.0",
+    "nodemon": "^1.17.3",
+    "truffle": "^5.0.2",
+    "truffle-contract": "3.0.6",
+    "openzeppelin-solidity": "^1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/truong160196/blockchain_trainning.git"
+  }
+}
